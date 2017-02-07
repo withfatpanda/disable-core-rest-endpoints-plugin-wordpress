@@ -4,8 +4,8 @@ Plugin Name: Disable Core REST Endpoints
 Plugin URI: http://github.com/withfatpanda/disable-core-rest-endpoints-plugin-wordpress/
 Description: Disable all WordPress core REST endpoints: posts, pages, and attachments
 Version: 1.0.0
-Author: Aaron Collegeman
-Author UIR: http://aaroncllegeman.com
+Author: Fat Panda
+Author UIR: http://www.withfatpanda.com
 License: GPLv2 or later
 */
 
