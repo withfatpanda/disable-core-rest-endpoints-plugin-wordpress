@@ -1,0 +1,14 @@
+{
+    "name": "withfatpanda/disable-core-rest-endpoints-plugin-wordpress",
+    "description": "Disable all WordPress core REST endpoints: posts, pages, and attachments",
+    "type": "wordpress-plugin",
+    "license": "GPLv2",
+    "authors": [
+        {
+            "name": "Aaron Collegeman",
+            "email": "aaron@withfatpanda.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
